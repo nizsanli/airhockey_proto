@@ -1,0 +1,3 @@
+[submodule "Assets/unity_xrt_helpers"]
+	path = Assets/unity_xrt_helpers
+	url = https://github.com/nizsanli/unity_xrt_helpers.git
