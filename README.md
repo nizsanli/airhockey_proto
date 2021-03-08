@@ -6,7 +6,7 @@ Hand models and poses are obtained from [Oculus Integration](https://assetstore.
 * Grip and hold to select
 * Right-controller's primary button to reset the puck
 
-![](./gifs/gameplay.gif)
+![](./gifs/gameplay_demo.gif)
 
 
 
